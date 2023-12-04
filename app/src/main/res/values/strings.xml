@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppMenus</string>
+    <string name="menuAbout">Acerca de...</string>
+    <string name="menuSettings">Configuración...</string>
+    <string name="mensajeAbout">Elegiste Acerca de…</string>
+    <string name="mensajeSettings">Elegiste Configuración...</string>
+</resources>
